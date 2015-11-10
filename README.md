@@ -1,2 +1,2 @@
 # unpolitisch
-unpolitical insights in politics and policy
+Data driven insights in policy, economics and politics.
